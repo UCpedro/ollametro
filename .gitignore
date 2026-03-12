@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Xcode user data
+xcuserdata/
+
+# Xcode workspace user settings
+*.xcworkspace
+
+# build files
+build/
+DerivedData/
+
+# swift package
+.swiftpm/
